@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Discord v13 Boş Altyapı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Discord","v13","V13","BOŞ", "Discord Boş Altyapı","Discord V13","Discord v13 Boş" , "Discord v13 Bos" , "Discord v13 bos altyapi"],
+  "author": "theChain",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "chalk": "^3.0.0",
+    "discord.js": "^13.8.1"
+  }
+}

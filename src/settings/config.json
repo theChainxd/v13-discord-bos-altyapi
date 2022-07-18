@@ -1,0 +1,27 @@
+{
+    "bot":{
+        "token":"DİSCORD BOT TOKNE",
+        "prefix":"pREFİX",
+        "clientID":"Client ID"
+    },
+    "ozellestirme":{
+        "event":{
+            "type":"COMPETING", 
+             "events" : [
+                "theChain :)","theChain bot","v13 bos","github.com/theChain"
+             ],
+             "status":"idle"
+            },
+        "cooldown":"Cooldown sistemini kurmadim eger cok begenilirse kurabilirim sonra",
+        "footer":"theChain was here",
+        "kanal":{
+            "eklendiAtildi":"Bot sunucuya eklenince mesaj attıgı kanal",
+            "komutLog":"Komut kullanılınca mesaj atılan kanal",
+            "connectedLog":"Botun baglanınca mesaj attıgı kanal"
+        },
+        "desteksunucusu":"Botunuz public degilse burayı girmeyebilirsiniz, burasının sebebi eger slash komutlar girilmemişse uyeye mesaj attiginda destek sunucusunu da atar"
+    },
+    "ekip":{
+        "kurucu":["Kurucu İD Giriniz"]
+    }
+}
